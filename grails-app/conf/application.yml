@@ -105,7 +105,7 @@ environments:
                   host: "smtp.gmail.com"
                   port: 587
                   username: "weatherpoweredemailchallenge@gmail.com"
-                  password: "x3OK&G6d0rrS"
+                  password: "xxxxxxxxxxxxx"
                   props:
                       mail.smtp.auth: "true"
                       mail.smtp.socketFactory.port: "465"
